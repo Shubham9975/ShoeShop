@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django specific files
+db.sqlite3
+/static/
+/media/
+*.env
+
+# PyCharm specific files
+.idea/
+
